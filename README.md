@@ -1,7 +1,7 @@
-# Discord lite road map
+# Discord Lite road map
 - Copy videos and images by right-clicking
 - Tray icon with ping count
-- Copy embed links
+- Copy embed links by right clicking
 - Better Discord support (Don't add theme support if it's not working) 
 
 ### and now my suggested features:
