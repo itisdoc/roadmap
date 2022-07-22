@@ -8,5 +8,4 @@
 ### and now my suggested features:
 - Add RPC (like the activity thing)
 - ~~Add spotify support~~ (already works)
-- F12 to open [DevTools](https://developer.chrome.com/docs/devtools/)
-- [Discord Experiments](https://github.com/NotNexuss/Discord-Experiments) (same as devtools pretty much)
+- [DiscordDarker](https://github.com/dune-studios/discorddarker) support ;)))
